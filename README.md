@@ -89,3 +89,7 @@ There are 5 ways to install Gogs:
 ## License
 
 This project is under the MIT License. See the [LICENSE](https://github.com/gogits/gogs/blob/master/LICENSE) file for the full license text.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/metadevfoundation/gogs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
